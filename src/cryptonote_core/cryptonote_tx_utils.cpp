@@ -744,7 +744,11 @@ namespace cryptonote
       if (pbc != NULL)
       {
         const uint64_t seed_height = rx_seedheight(height);
-        hash = seed_hash ? *seed_hash : pbc->get_pending_block_id_by_height(seed_height);
+        if (height == 0) {
+          memset(&hash, 0, sizeof(hash));  // genesis block: use zero hash (matches generation)
+        } else {
+          hash = seed_hash ? *seed_hash : pbc->get_pending_block_id_by_height(seed_height);
+        }
       } else
       {
         memset(&hash, 0, sizeof(hash));  // only happens when generating genesis block
