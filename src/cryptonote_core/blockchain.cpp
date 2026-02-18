@@ -5912,11 +5912,8 @@ void Blockchain::load_compiled_in_block_hashes(const GetCheckpointsCallback& get
 
 bool Blockchain::is_within_compiled_block_hash_area(uint64_t height) const
 {
-#if defined(PER_BLOCK_CHECKPOINT)
-  return height < m_blocks_hash_of_hashes.size() * HASH_OF_HASHES_STEP;
-#else
+  // C64 CHAIN: fresh mainnet, no precomputed block hashes needed
   return false;
-#endif
 }
 
 void Blockchain::lock()
