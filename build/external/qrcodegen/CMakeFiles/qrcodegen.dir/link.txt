@@ -1,0 +1,2 @@
+/usr/bin/ccache /usr/bin/ar qc libqrcodegen.a CMakeFiles/qrcodegen.dir/QrCode.cpp.o
+/usr/bin/ccache /usr/bin/ranlib libqrcodegen.a

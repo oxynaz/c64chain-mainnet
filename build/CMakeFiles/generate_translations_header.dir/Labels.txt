@@ -1,0 +1,13 @@
+# Target labels
+ generate_translations_header
+# Source files and their labels
+/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header
+/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header.rule
+/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header-complete.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-build.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-configure.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-download.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-install.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-mkdir.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-patch.rule
+/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-update.rule

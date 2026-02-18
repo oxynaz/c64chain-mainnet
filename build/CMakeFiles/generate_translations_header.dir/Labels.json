@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/CMakeFiles/generate_translations_header-complete.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-build.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-configure.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-download.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-install.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-mkdir.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-patch.rule"
+		},
+		{
+			"file" : "/home/user/github-export-mainnet/build/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"generate_translations_header"
+		],
+		"name" : "generate_translations_header"
+	}
+}

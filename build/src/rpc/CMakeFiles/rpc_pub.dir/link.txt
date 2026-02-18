@@ -1,0 +1,2 @@
+/usr/bin/ccache /usr/bin/ar qc librpc_pub.a CMakeFiles/obj_rpc_pub.dir/zmq_pub.cpp.o
+/usr/bin/ccache /usr/bin/ranlib librpc_pub.a

@@ -1,0 +1,17 @@
+Determining if the -Wl,-z,noexecheap linker flag is supported failed with the following output:
+Change Dir: '/home/user/github-export-mainnet/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_62bc1/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_62bc1.dir/build.make CMakeFiles/cmTC_62bc1.dir/build
+gmake[1]: Entering directory '/home/user/github-export-mainnet/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_62bc1.dir/CheckLinkerFlag.c.o
+/usr/bin/cc   -Wl,-z,noexecheap    -Wl,-z,noexecheap -o CMakeFiles/cmTC_62bc1.dir/CheckLinkerFlag.c.o -c /home/user/github-export-mainnet/cmake/CheckLinkerFlag.c
+Linking C executable cmTC_62bc1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62bc1.dir/link.txt --verbose=1
+/usr/bin/cc -Wl,-z,noexecheap  -Wl,-z,noexecheap  -rdynamic CMakeFiles/cmTC_62bc1.dir/CheckLinkerFlag.c.o -o cmTC_62bc1 
+/usr/bin/ld: warning: -z noexecheap ignored
+/usr/bin/ld: warning: -z noexecheap ignored
+gmake[1]: Leaving directory '/home/user/github-export-mainnet/build/CMakeFiles/CMakeTmp'
+
+
+

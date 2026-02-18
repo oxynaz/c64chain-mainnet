@@ -1,0 +1,2 @@
+/usr/bin/ccache /usr/bin/ar qc librpc_base.a CMakeFiles/obj_rpc_base.dir/rpc_args.cpp.o CMakeFiles/obj_rpc_base.dir/rpc_payment_signature.cpp.o CMakeFiles/obj_rpc_base.dir/rpc_handler.cpp.o
+/usr/bin/ccache /usr/bin/ranlib librpc_base.a

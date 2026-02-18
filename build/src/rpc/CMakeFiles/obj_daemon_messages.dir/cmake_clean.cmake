@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/obj_daemon_messages.dir/daemon_messages.cpp.o"
+  "CMakeFiles/obj_daemon_messages.dir/daemon_messages.cpp.o.d"
+  "CMakeFiles/obj_daemon_messages.dir/message.cpp.o"
+  "CMakeFiles/obj_daemon_messages.dir/message.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/obj_daemon_messages.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
