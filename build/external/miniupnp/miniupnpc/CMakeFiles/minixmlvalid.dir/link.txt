@@ -1,1 +1,0 @@
-/usr/bin/ccache /usr/bin/cc  -pthread -DNDEBUG -Ofast CMakeFiles/minixmlvalid.dir/minixmlvalid.c.o CMakeFiles/minixmlvalid.dir/minixml.c.o -o minixmlvalid 

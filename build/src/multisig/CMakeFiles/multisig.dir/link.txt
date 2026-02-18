@@ -1,2 +1,0 @@
-/usr/bin/ccache /usr/bin/ar qc libmultisig.a CMakeFiles/obj_multisig.dir/multisig.cpp.o CMakeFiles/obj_multisig.dir/multisig_account.cpp.o CMakeFiles/obj_multisig.dir/multisig_account_kex_impl.cpp.o CMakeFiles/obj_multisig.dir/multisig_clsag_context.cpp.o CMakeFiles/obj_multisig.dir/multisig_kex_msg.cpp.o CMakeFiles/obj_multisig.dir/multisig_tx_builder_ringct.cpp.o
-/usr/bin/ccache /usr/bin/ranlib libmultisig.a

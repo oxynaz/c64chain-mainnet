@@ -1,1 +1,0 @@
-/usr/bin/ccache /usr/bin/cc  -pthread -DNDEBUG -Ofast "CMakeFiles/upnpc-static.dir/upnpc.c.o" -o upnpc-static  libminiupnpc.a 

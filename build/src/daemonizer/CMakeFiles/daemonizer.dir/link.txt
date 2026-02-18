@@ -1,2 +1,0 @@
-/usr/bin/ccache /usr/bin/ar qc libdaemonizer.a CMakeFiles/obj_daemonizer.dir/posix_fork.cpp.o
-/usr/bin/ccache /usr/bin/ranlib libdaemonizer.a

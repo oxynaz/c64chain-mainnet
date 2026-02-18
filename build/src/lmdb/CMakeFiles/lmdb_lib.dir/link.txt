@@ -1,2 +1,0 @@
-/usr/bin/ccache /usr/bin/ar qc liblmdb_lib.a CMakeFiles/obj_lmdb_lib.dir/database.cpp.o CMakeFiles/obj_lmdb_lib.dir/error.cpp.o CMakeFiles/obj_lmdb_lib.dir/table.cpp.o CMakeFiles/obj_lmdb_lib.dir/value_stream.cpp.o
-/usr/bin/ccache /usr/bin/ranlib liblmdb_lib.a

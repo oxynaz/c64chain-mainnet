@@ -1,2 +1,0 @@
-/usr/bin/ccache /usr/bin/ar qc libcryptonote_format_utils_basic.a CMakeFiles/obj_cryptonote_format_utils_basic.dir/cryptonote_format_utils_basic.cpp.o
-/usr/bin/ccache /usr/bin/ranlib libcryptonote_format_utils_basic.a

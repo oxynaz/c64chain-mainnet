@@ -1,3 +1,0 @@
-/home/user/github-export-mainnet/build/translations/CMakeFiles/generate_translations_header.dir
-/home/user/github-export-mainnet/build/translations/CMakeFiles/edit_cache.dir
-/home/user/github-export-mainnet/build/translations/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,0 @@
-/usr/bin/ccache /usr/bin/ar qc libp2p.a CMakeFiles/obj_p2p.dir/net_node.cpp.o CMakeFiles/obj_p2p.dir/net_peerlist.cpp.o
-/usr/bin/ccache /usr/bin/ranlib libp2p.a

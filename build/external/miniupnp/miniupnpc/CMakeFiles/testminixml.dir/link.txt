@@ -1,1 +1,0 @@
-/usr/bin/ccache /usr/bin/cc  -pthread -DNDEBUG -Ofast CMakeFiles/testminixml.dir/testminixml.c.o CMakeFiles/testminixml.dir/minixml.c.o CMakeFiles/testminixml.dir/igd_desc_parse.c.o -o testminixml 
