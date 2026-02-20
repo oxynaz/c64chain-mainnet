@@ -365,7 +365,7 @@ Always run with `sudo` for best performance (huge pages). The miner features a C
 
 ## Community
 
-* Discord: [discord.gg/MTRgHT8r45](https://discord.gg/MTRgHT8r45)
+* Discord: https://discord.gg/yj2vACFJCj
 * GitHub: [github.com/oxynaz](https://github.com/oxynaz)
 * Block Explorer: [c64chain.com](https://c64chain.com)
 
